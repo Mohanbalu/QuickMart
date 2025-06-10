@@ -142,14 +142,6 @@ expo start
 - Scan the QR code from the terminal
 - Or run on iOS/Android simulator
 
-## 📱 Screenshots
-
-<div align="center">
-  <img src="./docs/screenshots/home.png" width="200" alt="Home Screen" />
-  <img src="./docs/screenshots/store-locator.png" width="200" alt="Store Locator" />
-  <img src="./docs/screenshots/loyalty.png" width="200" alt="Loyalty Program" />
-  <img src="./docs/screenshots/checkout.png" width="200" alt="Mobile Checkout" />
-</div>
 
 ## 🏗 Architecture
 
