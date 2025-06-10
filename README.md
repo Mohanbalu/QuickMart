@@ -334,10 +334,9 @@ PUT    /api/orders/:id/status
 ## 📞 Contact
 
 **Mohan** - Full-Stack Developer
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)
-- 📱 Phone: +1 (555) 123-4567
+- 📧 Email: mohanbalu292@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/mohanbalu](https://www.linkedin.com/in/mohanbalu/)
+- 🌐 Portfolio: [portfolio.com](https://mohanbalu-resume.netlify.app/)
 
 ## 📝 License
 
@@ -356,5 +355,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
   <p><strong>⭐ If you found this project helpful, please give it a star!</strong></p>
-  <p>Built with ❤️ by <a href="https://github.com/yourusername">Mohan</a></p>
+  <p>Built with ❤️ by <a href="https://github.com/Mohanbalu">Mohan</a></p>
 </div>
